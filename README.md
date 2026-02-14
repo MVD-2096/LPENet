@@ -5,5 +5,5 @@
 ## Code and Dataset：
 The code and dataset will be released publicly after the paper is accepted. We sincerely appreciate your understanding！
 
-## Camouflaged Prediction maps：
+## Camouflaged Prediction Maps：
 ![image](https://github.com/MVD-2096/LPENet/blob/main/prediction.png)
