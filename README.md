@@ -7,6 +7,7 @@ Upon closer observation, such defects can actively or passively blend into the b
 **Camouflaged Defects：** Camouflaged defects refer to defects that exhibit highly similar patterns to the surrounding background, to deceive the perceptual system of humans.
 ## Motivation：
 • Existing leading defect detection models exhibit limited generalization capability for camouflaged defect detection.
+
 • Research on camouflaged defect detection still remain limited, mainly due to the lack of a sufficiently large dataset benchmark currently.
 ## Highlights：
 
